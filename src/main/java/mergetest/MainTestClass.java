@@ -2,6 +2,7 @@ package mergetest;
 
 public class MainTestClass {
 
+I made a change in master
 
 
 I'm homeing along and making changes.
