@@ -2,7 +2,7 @@ package mergetest;
 
 public class MainTestClass {
 
-I made a change in master
+Making a change in Feature1
 
 TRy this again get this into the master on a merge
 I'm homeing along and making changes.
